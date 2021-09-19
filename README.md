@@ -8,3 +8,7 @@ Then it builds the map with homography
 
 There is another file named tracker.py which uses sparce optical flow techniques to track players within frames.
 This was implemented to avoid detection in every frame and enhance performance
+
+
+
+![alt text](https://github.com/RezaAyenevand/football_2d_map/blob/main/map.gif)
